@@ -1,0 +1,2 @@
+# In-Depth-Norway-Car-Sales-Analytics-Exploration-through-PowerBI
+Dive deep into the automotive sales landscape of Norway with an intricate Power BI project that not only highlights car sales data but also brings forth an immersive analytical experience. This project meticulously tracks car sales statistics, encompassing units sold, comprehensive revenue figures, and detailed market share analysis.
